@@ -1,0 +1,11 @@
+C:\Year 02\Software Development\TrafficSystem\TrafficSystem\bin\Debug\net8.0\TrafficSystem.deps.json
+C:\Year 02\Software Development\TrafficSystem\TrafficSystem\bin\Debug\net8.0\TrafficSystem.dll
+C:\Year 02\Software Development\TrafficSystem\TrafficSystem\bin\Debug\net8.0\TrafficSystem.pdb
+C:\Year 02\Software Development\TrafficSystem\TrafficSystem\obj\Debug\net8.0\TrafficSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Year 02\Software Development\TrafficSystem\TrafficSystem\obj\Debug\net8.0\TrafficSystem.AssemblyInfoInputs.cache
+C:\Year 02\Software Development\TrafficSystem\TrafficSystem\obj\Debug\net8.0\TrafficSystem.AssemblyInfo.cs
+C:\Year 02\Software Development\TrafficSystem\TrafficSystem\obj\Debug\net8.0\TrafficSystem.csproj.CoreCompileInputs.cache
+C:\Year 02\Software Development\TrafficSystem\TrafficSystem\obj\Debug\net8.0\TrafficSystem.dll
+C:\Year 02\Software Development\TrafficSystem\TrafficSystem\obj\Debug\net8.0\refint\TrafficSystem.dll
+C:\Year 02\Software Development\TrafficSystem\TrafficSystem\obj\Debug\net8.0\TrafficSystem.pdb
+C:\Year 02\Software Development\TrafficSystem\TrafficSystem\obj\Debug\net8.0\ref\TrafficSystem.dll
